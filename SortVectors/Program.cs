@@ -21,10 +21,11 @@ namespace SortVectors
             Console.ReadKey();
 
         }
+        public static void Ordina(int[] v)
+        {
+            Array.Sort(v);
+        }
     }
-    public static void Ordina(int[] v)
-    {
-        Array.Sort(v);
-    }
+   
 
 }
