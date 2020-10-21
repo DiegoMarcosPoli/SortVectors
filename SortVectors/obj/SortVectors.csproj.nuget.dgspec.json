@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego marcos.poli\\Documents\\clone\\SortVectors\\SortVectors\\SortVectors.csproj": {}
+    "C:\\Users\\cristofer.napolitano\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego marcos.poli\\Documents\\clone\\SortVectors\\SortVectors\\SortVectors.csproj": {
+    "C:\\Users\\cristofer.napolitano\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego marcos.poli\\Documents\\clone\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectUniqueName": "C:\\Users\\cristofer.napolitano\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj",
         "projectName": "SortVectors",
-        "projectPath": "C:\\Users\\diego marcos.poli\\Documents\\clone\\SortVectors\\SortVectors\\SortVectors.csproj",
-        "packagesPath": "C:\\Users\\diego marcos.poli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego marcos.poli\\Documents\\clone\\SortVectors\\SortVectors\\obj\\",
+        "projectPath": "C:\\Users\\cristofer.napolitano\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "packagesPath": "C:\\Users\\cristofer.napolitano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cristofer.napolitano\\Documents\\SortVectors\\SortVectors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\diego marcos.poli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cristofer.napolitano\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
